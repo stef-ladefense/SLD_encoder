@@ -162,9 +162,10 @@ L'algorithme de Machine à États (FSM) des modes Buxton est basé sur le travai
 
 ---
 *(C) 2026 Stef_ladéfense - Version 1.05*
-V1.00 Première Version (SB_encodeur).
-V1.01 Ajout de l'accélération temporelle.
-V1.02 Ajout de getDeltaBrut et normalisation de getDelta (+/- 1).
-V1.03 Migration SLD, Optimisation ESP32 (DRAM/Atomic).
-V1.04 Dual-Engine (Standard vs Buxton).
-V1.05 Triple-Engine, Constructeur Dynamique, Support C++20.
+
+- **V1.00** : Première Version (SB_encodeur).
+- **V1.01** : Ajout de l'accélération temporelle.
+- **V1.02** : Ajout de getDeltaBrut et normalisation de getDelta (+/- 1).
+- **V1.03** : Migration SLD, Optimisation ESP32 (DRAM/Atomic).
+- **V1.04** : Dual-Engine (Standard vs Buxton).
+- **V1.05** : Triple-Engine, Constructeur Dynamique, Support C++20.
